@@ -10,3 +10,4 @@ dependencies:
     - openai==1.35.1
     - langchain==0.2.5
     - python-dotenv==1.0.1
+    - langchain-openai==0.1.8
