@@ -1,0 +1,10 @@
+name: remember_me_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12.3
+  - django=5.0.6
+  - pip
+  - pip:
+    - openai==1.35.1
