@@ -1,9 +1,9 @@
 # remember_me
 
-1. Create and Activate a Virtual Environment
+1. Create and Activate the Conda Environment
 ```sh
-python -m venv venv
-source venv/bin/activate
+conda env create -f environment.yaml
+conda activate remember_me_env
 ```
 
 2. Install Dependencies
