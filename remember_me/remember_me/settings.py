@@ -40,7 +40,7 @@ ROOT_URLCONF = 'remember_me.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -107,3 +107,6 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+WHATSAPP_URL = 'https://graph.facebook.com/v20.0/366038216587119/messages'
+WHATSAPP_TOKEN = 'Bearer EAAP6fZBD6lC4BOyDmitJqpl7DuTgJjQZAoxbqk3yr8DaXmmT1IunNEZB8kx4TdlUZAhSEMILP5oVASGAlp3cpndRV1mJCMqwDhQsmkjy6BAh7PX2PCBOR5boT0EFIRs7pBfTB3Jsce8nmbg7n15NDMsOlGcDoIyNZCyZAvE4f0WZCcZBhZBE32om3WcS4AovfWAVQdXxxaj1YJuiYqbsOw7n447fL9OAZD'

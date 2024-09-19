@@ -6,3 +6,4 @@ urlpatterns = [
     path('whatsapp/', include('apps.whatsapp_gateway.urls')),
     path('messages/', include('apps.messages_processor.urls')),
 ]
+
