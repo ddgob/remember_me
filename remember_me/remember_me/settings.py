@@ -10,6 +10,9 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 
+import os
+from dotenv import load_dotenv
+
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -123,3 +126,12 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Retrieve the OpenAI API key from environment variables
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+# Ensure the key is correctly loaded
+if not OPENAI_API_KEY:
+    raise ValueError("No OPENAI_API_KEY set for the Django project")
