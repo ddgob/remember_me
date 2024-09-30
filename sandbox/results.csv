@@ -1,0 +1,171 @@
+model_name,audio_name,cosine_sim,execution_time,model_transcription,correct_transcription
+tiny,8.m4a,0.18528870087082655,4.945495843887329, pcept% em troandır em trozinha tigo de advice que vai ser nossa vida,"Que que você pensa em fazer, tipo assim, da casa?"
+base,8.m4a,0.4501755023269899,2.8248801231384277, E você pensa em fazer tipo se invacar a casa.,"Que que você pensa em fazer, tipo assim, da casa?"
+small,8.m4a,0.8713658601863271,6.298497200012207," O que você pensa em fazer? Tipo assim, ir da casa.","Que que você pensa em fazer, tipo assim, da casa?"
+medium,8.m4a,0.9622504486493765,23.045385122299194," O que você pensa em fazer? Tipo assim, da casa.","Que que você pensa em fazer, tipo assim, da casa?"
+large,8.m4a,0.9622504486493765,50.161850929260254," O que você pensa em fazer? Tipo assim, da casa?","Que que você pensa em fazer, tipo assim, da casa?"
+tiny,9.m4a,0.10443020465767974,1.9802680015563965," Um, um, um, um box e a pita que eu digo fica meira para o fazente, não? Pocinto.","O banheiro sim, o box e a pia e tal. Porque é o dia que fica melhor pra eu fazer, entendeu. Pode ser então?"
+base,9.m4a,0.43507722746245037,2.1729819774627686," um boi, um box e a pita que o dia que fica melhor para o fazer, entendeu? pode ser então?","O banheiro sim, o box e a pia e tal. Porque é o dia que fica melhor pra eu fazer, entendeu. Pode ser então?"
+small,9.m4a,0.6855867369932984,4.822619915008545," O banheiro sim, o boxe, a pita, que é o dia que fica melhor pra eu fazer, entendeu? Pode ser, então...","O banheiro sim, o box e a pia e tal. Porque é o dia que fica melhor pra eu fazer, entendeu. Pode ser então?"
+medium,9.m4a,0.6384701762143284,17.39841890335083," O banheiro, o box e a pi e tal, que é o dia que fica melhor pra eu fazer, entendeu? Pode sentar?","O banheiro sim, o box e a pia e tal. Porque é o dia que fica melhor pra eu fazer, entendeu. Pode ser então?"
+large,9.m4a,0.6745958958223053,31.642757892608643," O banheiro, o box e a pita, que é o dia que fica melhor pra fazer, entendeu? Pode ser então?","O banheiro sim, o box e a pia e tal. Porque é o dia que fica melhor pra eu fazer, entendeu. Pode ser então?"
+tiny,00000009-AUDIO-2024-06-21-00-18-50.opus,0.0,3.0934581756591797, O Moss não adici e pé...,Mostra minha lista de tarefas.
+base,00000009-AUDIO-2024-06-21-00-18-50.opus,1.0000000000000002,1.7445597648620605, e mostra a minha lista de tarefas.,Mostra minha lista de tarefas.
+small,00000009-AUDIO-2024-06-21-00-18-50.opus,0.6694188517266485,3.6768009662628174, e mostra a minha lista de tarefos.,Mostra minha lista de tarefas.
+medium,00000009-AUDIO-2024-06-21-00-18-50.opus,1.0000000000000002,14.0416579246521, e mostra minha lista de tarefas.,Mostra minha lista de tarefas.
+large,00000009-AUDIO-2024-06-21-00-18-50.opus,1.0000000000000002,24.461830139160156, E mostra minha lista de tarefas.,Mostra minha lista de tarefas.
+tiny,00000003-AUDIO-2024-06-21-00-17-59.opus,0.8466473536503034,0.8831050395965576, e mostra o minha lista de tarefas.,Me mostra a minha lista de tarefas.
+base,00000003-AUDIO-2024-06-21-00-17-59.opus,0.716811741443062,1.767064094543457, me mostra o meu lista de tarefas,Me mostra a minha lista de tarefas.
+small,00000003-AUDIO-2024-06-21-00-17-59.opus,1.0000000000000002,3.8523552417755127, Me mostra minha lista de tarefas.,Me mostra a minha lista de tarefas.
+medium,00000003-AUDIO-2024-06-21-00-17-59.opus,0.8466473536503034,13.705380201339722, e mostra minha lista de tarefas.,Me mostra a minha lista de tarefas.
+large,00000003-AUDIO-2024-06-21-00-17-59.opus,1.0000000000000002,25.66415500640869, Me mostra minha lista de tarefas.,Me mostra a minha lista de tarefas.
+tiny,00000018-AUDIO-2024-06-21-00-22-20.opus,0.8372711739253811,1.2664949893951416, Min lembre de fazer o trabalho de aprendizado de máquina até o de 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+base,00000018-AUDIO-2024-06-21-00-22-20.opus,0.8907064952805817,2.0711429119110107, Lembra de fazer o trabalho de empreendizar de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+small,00000018-AUDIO-2024-06-21-00-22-20.opus,1.0000000000000002,4.6320600509643555, Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+medium,00000018-AUDIO-2024-06-21-00-22-20.opus,1.0000000000000002,15.380609035491943, Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+large,00000018-AUDIO-2024-06-21-00-22-20.opus,1.0000000000000002,30.341199159622192, Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+tiny,00000005-AUDIO-2024-06-21-00-18-07.opus,1.0000000000000002,0.9887220859527588, quais são as minhas tarefas.,Quais são as minhas tarefas?
+base,00000005-AUDIO-2024-06-21-00-18-07.opus,1.0000000000000002,1.4928991794586182, Quais são as minhas tarefas?,Quais são as minhas tarefas?
+small,00000005-AUDIO-2024-06-21-00-18-07.opus,1.0000000000000002,3.880465030670166, Quais são as minhas tarefas?,Quais são as minhas tarefas?
+medium,00000005-AUDIO-2024-06-21-00-18-07.opus,1.0000000000000002,13.47971510887146, Quais são as minhas tarefas?,Quais são as minhas tarefas?
+large,00000005-AUDIO-2024-06-21-00-18-07.opus,1.0000000000000002,25.26120924949646, Quais são as minhas tarefas?,Quais são as minhas tarefas?
+tiny,00000016-AUDIO-2024-06-21-00-21-14.opus,0.22576484600261607,0.9665231704711914, A ansión matareja para levar o lixo fora a maia azoito da noxla.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 da noite.
+base,00000016-AUDIO-2024-06-21-00-21-14.opus,0.47449329434268467,1.9252290725708008, A Direção de uma tarefa para elevar o lixo fora amanhã às 8h da noite.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 da noite.
+small,00000016-AUDIO-2024-06-21-00-21-14.opus,0.647328633751388,4.380950212478638, Adicione uma tarefa para levar o lixo fora amanhã às 8 da noite.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 da noite.
+medium,00000016-AUDIO-2024-06-21-00-21-14.opus,0.647328633751388,14.959123849868774, Adiciono uma tarefa para levar o lixo fora amanhã às 8 da noite.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 da noite.
+large,00000016-AUDIO-2024-06-21-00-21-14.opus,0.647328633751388,28.264517307281494, Adiciono uma tarefa para levar o lixo fora amanhã às 8 da noite.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 da noite.
+tiny,00000019-AUDIO-2024-06-21-00-22-27.opus,0.8907064952805817,0.933588981628418, O lembro de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+base,00000019-AUDIO-2024-06-21-00-22-27.opus,0.8586557982260815,1.8159899711608887, Me lembro de fazer o trabalho de aplendizar de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+small,00000019-AUDIO-2024-06-21-00-22-27.opus,0.9267726470371961,4.3614771366119385, Me lembro de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+medium,00000019-AUDIO-2024-06-21-00-22-27.opus,1.0000000000000002,15.213483810424805, Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+large,00000019-AUDIO-2024-06-21-00-22-27.opus,1.0000000000000002,27.967891931533813, Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+tiny,00000007-AUDIO-2024-06-21-00-18-18.opus,0.33609692727625745,0.6950080394744873, Me mostram em lista de tarefos.,Me mostra a minha lista de tarefas.
+base,00000007-AUDIO-2024-06-21-00-18-18.opus,0.7168117414430619,1.3197319507598877, me mostra minha lista de tarefos,Me mostra a minha lista de tarefas.
+small,00000007-AUDIO-2024-06-21-00-18-18.opus,0.7168117414430619,3.8055810928344727, Me mostra a minha lista de tarefos.,Me mostra a minha lista de tarefas.
+medium,00000007-AUDIO-2024-06-21-00-18-18.opus,1.0000000000000002,13.59476113319397, Me mostra minha lista de tarefas.,Me mostra a minha lista de tarefas.
+large,00000007-AUDIO-2024-06-21-00-18-18.opus,1.0000000000000002,25.12177014350891, Me mostra minha lista de tarefas.,Me mostra a minha lista de tarefas.
+tiny,11.m4a,0.8019783064439235,0.7566730976104736, Me lembra de tirar o lixo e levar lá para fora.,Me lembra de tirar o lixo e levar lá pra fora.
+base,11.m4a,0.5031026124151314,1.5334608554840088, Me lembra de tirar o lixo e levá-la para fora.,Me lembra de tirar o lixo e levar lá pra fora.
+small,11.m4a,0.8019783064439235,4.009981870651245, Me lembra de tirar o lixo e levar lá para fora.,Me lembra de tirar o lixo e levar lá pra fora.
+medium,11.m4a,1.0000000000000002,14.571815252304077, Me lembra de tirar o lixo e levar lá pra fora.,Me lembra de tirar o lixo e levar lá pra fora.
+large,11.m4a,1.0000000000000002,27.389687061309814, Me lembra de tirar o lixo e levar lá pra fora.,Me lembra de tirar o lixo e levar lá pra fora.
+tiny,10.m4a,0.0,3.073190689086914, If I go... Ready?,Você tá gravando? Pra ele ir escrevendo?
+base,10.m4a,0.0,5.786653995513916, a ro- least,Você tá gravando? Pra ele ir escrevendo?
+small,10.m4a,0.0,4.974663257598877, अच्टा गर वाँ प्रेदि इसकर बें,Você tá gravando? Pra ele ir escrevendo?
+medium,10.m4a,0.0,52.68410301208496, זהİ,Você tá gravando? Pra ele ir escrevendo?
+large,10.m4a,0.09349477497536716,27.04526400566101," Está gravando? Freddy, escorrega aí.",Você tá gravando? Pra ele ir escrevendo?
+tiny,12.m4a,0.3408242166238353,0.799246072769165," Nossa, que saca isso em pela módideos","Nossa que saco isso em, pelo amor de Deus."
+base,12.m4a,0.6392306240536285,1.5992190837860107," Nossa, que saco isso em Pela Morde de Deus!","Nossa que saco isso em, pelo amor de Deus."
+small,12.m4a,0.8019783064439235,3.9969727993011475," Nossa, que saco isso, hein? Pelo amor de Deus!","Nossa que saco isso em, pelo amor de Deus."
+medium,12.m4a,0.8019783064439235,14.895684003829956," Nossa, que saco isso, hein? Pelo amor de Deus!","Nossa que saco isso em, pelo amor de Deus."
+large,12.m4a,0.8019783064439235,27.293104887008667," Nossa, que saco isso, hein? Pelo amor de Deus.","Nossa que saco isso em, pelo amor de Deus."
+tiny,00000012-AUDIO-2024-06-21-00-19-49.opus,0.532502513273813,0.9862279891967773, A teô não matarefa para eu levar o lixo fora amanhã às 8 horas da noite.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 horas da noite.
+base,00000012-AUDIO-2024-06-21-00-19-49.opus,0.5325025132738129,1.61673903465271, Adiciono uma tarefa para eu levar o lixo fora amanhã as 8h da noite.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 horas da noite.
+small,00000012-AUDIO-2024-06-21-00-19-49.opus,0.7357532581618293,4.3325629234313965, adiciono uma tarefa para eu levar o lixo fora amanhã às 8 horas da noite,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 horas da noite.
+medium,00000012-AUDIO-2024-06-21-00-19-49.opus,0.7357532581618293,15.782773971557617, Adiciono uma tarefa para eu levar o lixo fora amanhã às 8 horas da noite.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 horas da noite.
+large,00000012-AUDIO-2024-06-21-00-19-49.opus,0.7357532581618293,28.963417053222656, Adiciono uma tarefa para eu levar o lixo fora amanhã às 8 horas da noite.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 horas da noite.
+tiny,13.m4a,0.684861225302523,1.0556659698486328, De ciôno motoréfa para poder lembrar de criar um novo website e depois também adicionar a chave de api do site.,Adiciona uma tarefa pra poder lembrar de criar o novo website e depois também adicionar a chave de API do site.
+base,13.m4a,0.6694188517266485,2.436275005340576, Adicione o motor efe para poder lembrar de criar o novo website e depois também adicionar a chave de API do site.,Adiciona uma tarefa pra poder lembrar de criar o novo website e depois também adicionar a chave de API do site.
+small,13.m4a,0.7854411546403511,5.88400411605835, Adiciono uma tarefa para poder lembrar de criar um novo website e depois também adicionar a chave de API do site.,Adiciona uma tarefa pra poder lembrar de criar o novo website e depois também adicionar a chave de API do site.
+medium,13.m4a,0.7854411546403511,17.240823984146118, Adiciono uma tarefa para poder lembrar de criar um novo website e depois também adicionar a chave de API do site.,Adiciona uma tarefa pra poder lembrar de criar o novo website e depois também adicionar a chave de API do site.
+large,13.m4a,0.7854411546403511,31.017847061157227, Adiciono uma tarefa para poder lembrar de criar um novo website e depois também adicionar a chave de API do site.,Adiciona uma tarefa pra poder lembrar de criar o novo website e depois também adicionar a chave de API do site.
+tiny,00000013-AUDIO-2024-06-21-00-20-07.opus,0.0,3.8705251216888428," from the normalW vai , in the",Adiciona uma tarefa pra eu levar o lixo lá pra fora amanhã a noite às 8 da noite.
+base,00000013-AUDIO-2024-06-21-00-20-07.opus,0.4520374617704398,2.0250601768493652, Adiciono uma tarefa para levar o lixo lá para fora amanhã noites às oito da noite.,Adiciona uma tarefa pra eu levar o lixo lá pra fora amanhã a noite às 8 da noite.
+small,00000013-AUDIO-2024-06-21-00-20-07.opus,0.5452132779251677,4.790536880493164, Adiciono uma tarefa para levar o lixo lá para fora amanhã à noite às 8 da noite.,Adiciona uma tarefa pra eu levar o lixo lá pra fora amanhã a noite às 8 da noite.
+medium,00000013-AUDIO-2024-06-21-00-20-07.opus,0.5452132779251677,15.809413194656372," Adiciono uma tarefa para levar o lixo lá para fora amanhã à noite, às 8 da noite.",Adiciona uma tarefa pra eu levar o lixo lá pra fora amanhã a noite às 8 da noite.
+large,00000013-AUDIO-2024-06-21-00-20-07.opus,0.5452132779251677,28.939274072647095," Adiciono uma tarefa para levar o lixo lá para fora amanhã à noite, às 8 da noite.",Adiciona uma tarefa pra eu levar o lixo lá pra fora amanhã a noite às 8 da noite.
+tiny,17.m4a,1.0000000000000002,0.7486526966094971, Me mostra a minha lista de tarefas.,Me mostra a minha lista de tarefas.
+base,17.m4a,1.0000000000000002,1.5921058654785156, me mostra a minha lista de tarefas,Me mostra a minha lista de tarefas.
+small,17.m4a,1.0000000000000002,3.994373083114624, Me mostra a minha lista de tarefas.,Me mostra a minha lista de tarefas.
+medium,17.m4a,1.0000000000000002,13.967204093933105, me mostra a minha lista de tarefas.,Me mostra a minha lista de tarefas.
+large,17.m4a,1.0000000000000002,26.0596821308136, Me mostra a minha lista de tarefas.,Me mostra a minha lista de tarefas.
+tiny,16.m4a,1.0000000000000002,0.8131330013275146, Me mostra a minha lista de tarefas.,Me mostra a minha lista de tarefas.
+base,16.m4a,1.0000000000000002,1.7694988250732422, me mostra a minha lista de tarefas,Me mostra a minha lista de tarefas.
+small,16.m4a,1.0000000000000002,4.270632982254028, Me mostra a minha lista de tarefas.,Me mostra a minha lista de tarefas.
+medium,16.m4a,1.0000000000000002,14.46267318725586, me mostra a minha lista de tarefas.,Me mostra a minha lista de tarefas.
+large,16.m4a,1.0000000000000002,26.58142590522766, Me mostra a minha lista de tarefas.,Me mostra a minha lista de tarefas.
+tiny,00000017-AUDIO-2024-06-21-00-21-23.opus,0.0,5.239223003387451, Au reast și nu am matarefă irre travail,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 da noite.
+base,00000017-AUDIO-2024-06-21-00-21-23.opus,0.0,7.708468914031982, Morac coveti nu stiu anklecot.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 da noite.
+small,00000017-AUDIO-2024-06-21-00-21-23.opus,0.647328633751388,4.209162950515747, Adicione uma tarefa para levar o lixo fora amanhã às 8 da noite.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 da noite.
+medium,00000017-AUDIO-2024-06-21-00-21-23.opus,0.6029748160380572,15.53703498840332, Adiciono uma tarefa para levar o lixo fora amanhã às 8h da noite.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 da noite.
+large,00000017-AUDIO-2024-06-21-00-21-23.opus,0.7168117414430623,30.81719398498535, Adiciono uma tarefa para eu levar o lixo fora amanhã às 8 da noite.,Adiciona uma tarefa pra eu levar o lixo fora amanhã às 8 da noite.
+tiny,14.m4a,0.5507796339456279,1.9674787521362305, Mi mostra a estaréfas que eu tenho no momento.,Me mostra as tarefas que eu tenho no momento.
+base,14.m4a,1.0000000000000002,1.402250051498413, me mostra as tarefas que eu tenho no momento,Me mostra as tarefas que eu tenho no momento.
+small,14.m4a,1.0000000000000002,3.764907121658325, Me mostra as tarefas que eu tenho no momento.,Me mostra as tarefas que eu tenho no momento.
+medium,14.m4a,1.0000000000000002,14.520784139633179, Me mostra as tarefas que eu tenho no momento.,Me mostra as tarefas que eu tenho no momento.
+large,14.m4a,1.0000000000000002,26.29924726486206, Me mostra as tarefas que eu tenho no momento.,Me mostra as tarefas que eu tenho no momento.
+tiny,15.m4a,0.0,4.045795917510986, Min varstra här starefter 수가erna moment.,Me mostra as tarefas que eu tenho no momento.
+base,15.m4a,0.7060777744337089,1.428598165512085, Me mostra a tarefa que eu tenho no momento.,Me mostra as tarefas que eu tenho no momento.
+small,15.m4a,1.0000000000000002,3.755795955657959, Me mostra as tarefas que eu tenho no momento.,Me mostra as tarefas que eu tenho no momento.
+medium,15.m4a,1.0000000000000002,14.920777320861816, me mostra as tarefas que eu tenho no momento.,Me mostra as tarefas que eu tenho no momento.
+large,15.m4a,1.0000000000000002,27.12435507774353, Me mostra as tarefas que eu tenho no momento.,Me mostra as tarefas que eu tenho no momento.
+tiny,00000008-AUDIO-2024-06-21-00-18-29.opus,0.7799154245579976,1.0249300003051758, Fais são as coisas que eu preciso fazer.,Quais são as coisas que eu preciso fazer?
+base,00000008-AUDIO-2024-06-21-00-18-29.opus,1.0000000000000002,1.4002611637115479, Quais são as coisas que eu preciso fazer?,Quais são as coisas que eu preciso fazer?
+small,00000008-AUDIO-2024-06-21-00-18-29.opus,1.0000000000000002,3.841794013977051, Quais são as coisas que eu preciso fazer?,Quais são as coisas que eu preciso fazer?
+medium,00000008-AUDIO-2024-06-21-00-18-29.opus,1.0000000000000002,14.731127977371216, Quais são as coisas que eu preciso fazer?,Quais são as coisas que eu preciso fazer?
+large,00000008-AUDIO-2024-06-21-00-18-29.opus,1.0000000000000002,26.261284112930298, Quais são as coisas que eu preciso fazer?,Quais são as coisas que eu preciso fazer?
+tiny,AUDIO-2024-06-21-12-06-46.m4a,0.42161080467267986,1.0062220096588135, A edição aleta a Aleta é uma daniel segunda-feira que vem em 3 horas da tarde.,Adicione a tarefa de falar que amo Daniel segunda-feira que vem 3 horas da tarde.
+base,AUDIO-2024-06-21-12-06-46.m4a,0.7799154245579977,1.596247911453247, Adicione a tarefa de falar que a mudaniel segunda-feira que vem três horas da tarde.,Adicione a tarefa de falar que amo Daniel segunda-feira que vem 3 horas da tarde.
+small,AUDIO-2024-06-21-12-06-46.m4a,0.943455735598691,4.463985919952393," Adicione a tarefa de falar que amo Daniel. Segunda-feira, que vem três horas da tarde.",Adicione a tarefa de falar que amo Daniel segunda-feira que vem 3 horas da tarde.
+medium,AUDIO-2024-06-21-12-06-46.m4a,0.943455735598691,16.40700387954712, Adicione a tarefa de falar que amo o Daniel segunda-feira que vem três horas da tarde.,Adicione a tarefa de falar que amo Daniel segunda-feira que vem 3 horas da tarde.
+large,AUDIO-2024-06-21-12-06-46.m4a,1.0,30.18078899383545," Adicione a tarefa de falar que amo Daniel segunda-feira que vem, 3 horas da tarde.",Adicione a tarefa de falar que amo Daniel segunda-feira que vem 3 horas da tarde.
+tiny,00000014-AUDIO-2024-06-21-00-20-34.opus,1.0000000000000002,1.117676019668579, Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+base,00000014-AUDIO-2024-06-21-00-20-34.opus,0.9046672927345145,1.5511691570281982, Me lembra de fazer o trabalho de aprendizade máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+small,00000014-AUDIO-2024-06-21-00-20-34.opus,1.0000000000000002,4.1350998878479, Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+medium,00000014-AUDIO-2024-06-21-00-20-34.opus,0.9046672927345145,15.840943813323975, Me lembra de fazer o trabalho de aprendizagem máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+large,00000014-AUDIO-2024-06-21-00-20-34.opus,0.926772647037196,29.337141036987305, Me lembra de fazer o trabalho de aprendizagem de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+tiny,00000010-AUDIO-2024-06-21-00-18-55.opus,0.0,3.3754220008850098," Onde seja, não está jaxe que你是 fazia.",Quais são as tarefas que eu preciso fazer?
+base,00000010-AUDIO-2024-06-21-00-18-55.opus,0.6029748160380571,1.3687210083007812, Eles são os tarefas que eu preciso fazer.,Quais são as tarefas que eu preciso fazer?
+small,00000010-AUDIO-2024-06-21-00-18-55.opus,0.7799154245579976,3.7350122928619385, Mas são as tarefas que eu preciso fazer.,Quais são as tarefas que eu preciso fazer?
+medium,00000010-AUDIO-2024-06-21-00-18-55.opus,0.7799154245579976,16.02559208869934, Essas são as tarefas que eu preciso fazer.,Quais são as tarefas que eu preciso fazer?
+large,00000010-AUDIO-2024-06-21-00-18-55.opus,1.0000000000000002,26.443886041641235, Quais são as tarefas que eu preciso fazer?,Quais são as tarefas que eu preciso fazer?
+tiny,1.m4a,0.40298220897396103,0.8298909664154053, Oito do bem como é que está indo.,"Oi, tudo bem? Como é que tá indo?"
+base,1.m4a,0.30412574187549346,1.2894809246063232, oito do bem como está indo,"Oi, tudo bem? Como é que tá indo?"
+small,1.m4a,1.0000000000000004,3.6603620052337646," Oi, tudo bem? Como é que tá indo?","Oi, tudo bem? Como é que tá indo?"
+medium,1.m4a,0.7523197619890014,16.779624938964844," Oi, tudo bem? Como é que está indo?","Oi, tudo bem? Como é que tá indo?"
+large,1.m4a,1.0000000000000004,26.926848649978638," Oi, tudo bem? Como é que tá indo?","Oi, tudo bem? Como é que tá indo?"
+tiny,00000006-AUDIO-2024-06-21-00-18-11.opus,1.0000000000000002,0.7859468460083008, quais são as coisas que eu preciso fazer.,Quais são as coisas que eu preciso fazer?
+base,00000006-AUDIO-2024-06-21-00-18-11.opus,1.0000000000000002,1.3549518585205078, Quais são as coisas que eu preciso fazer?,Quais são as coisas que eu preciso fazer?
+small,00000006-AUDIO-2024-06-21-00-18-11.opus,1.0000000000000002,3.666508197784424, Quais são as coisas que eu preciso fazer?,Quais são as coisas que eu preciso fazer?
+medium,00000006-AUDIO-2024-06-21-00-18-11.opus,1.0000000000000002,14.471215724945068, Quais são as coisas que eu preciso fazer?,Quais são as coisas que eu preciso fazer?
+large,00000006-AUDIO-2024-06-21-00-18-11.opus,1.0000000000000002,26.458881855010986, Quais são as coisas que eu preciso fazer?,Quais são as coisas que eu preciso fazer?
+tiny,2.m4a,0.3408242166238353,0.7775018215179443, Na hoje tão frio de doel dente.,"Noh, hoje tá um frio de doer o dente em!"
+base,2.m4a,0.14587439082056455,1.512293815612793," Nós estamos frios de doel dente, hein?","Noh, hoje tá um frio de doer o dente em!"
+small,2.m4a,0.387556981443423,3.9351110458374023," Não, hoje está um frio de doel dente, hein?","Noh, hoje tá um frio de doer o dente em!"
+medium,2.m4a,0.6392306240536285,15.682283639907837," Nossa, hoje tá um frio de doer o dente, hein?","Noh, hoje tá um frio de doer o dente em!"
+large,2.m4a,0.6392306240536285,28.41645097732544," Nossa, hoje tá um frio de doer o dente, hein?","Noh, hoje tá um frio de doer o dente em!"
+tiny,3.m4a,0.9255238792484966,1.2502968311309814," Você pode adicionar uma tarefa na minha lista de afazeres pra ligar pra olívio a manhã as 10 da tarde, por favor? 10 da tarde não, 10 da manhã.","Você pode adicionar uma tarefa na minha lista de afazeres pra ligar pra Olívia amanhã as 10 da tarde, por favor? 10 da tarde não, 10 da manhã."
+base,3.m4a,0.7402053879172337,2.016477108001709," Você pode adicionar uma tarefa na minha lista de afazeres para ligar para o livro a manhã às 10 da tarde, por favor? 10 da tarde não, 10 da manhã.","Você pode adicionar uma tarefa na minha lista de afazeres pra ligar pra Olívia amanhã as 10 da tarde, por favor? 10 da tarde não, 10 da manhã."
+small,3.m4a,0.7279548916086107,5.376611709594727," Você pode adicionar uma tarefa na minha lista de fazeres para ligar para o Olívio amanhã às 10 da tarde, por favor. 10 da tarde não, 10 da manhã.","Você pode adicionar uma tarefa na minha lista de afazeres pra ligar pra Olívia amanhã as 10 da tarde, por favor? 10 da tarde não, 10 da manhã."
+medium,3.m4a,0.7979268493658392,19.697463035583496," Você pode adicionar uma tarefa na minha lista de afazeres para ligar para a Olívia amanhã às 10 da tarde, por favor? 10 da tarde não, 10 da manhã.","Você pode adicionar uma tarefa na minha lista de afazeres pra ligar pra Olívia amanhã as 10 da tarde, por favor? 10 da tarde não, 10 da manhã."
+large,3.m4a,0.9140237818768356,34.371082067489624," Você pode adicionar uma tarefa na minha lista de afazeres pra ligar pra Olivia amanhã às 10 da tarde, por favor? 10 da tarde não, 10 da manhã.","Você pode adicionar uma tarefa na minha lista de afazeres pra ligar pra Olívia amanhã as 10 da tarde, por favor? 10 da tarde não, 10 da manhã."
+tiny,7.m4a,0.5031026124151314,1.0022010803222656, Vou te fazer porque não vai dar suficiente. Tendeu.,"Ter que fazer, porque não vai dar suficiente, entendeu?"
+base,7.m4a,0.31125746752705374,6.029944181442261, o tem cafe porque não vai dar sresento cheio,"Ter que fazer, porque não vai dar suficiente, entendeu?"
+small,7.m4a,0.905549965094206,3.8999598026275635, Vou ter que fazer porque não vai dar suficiente. Entendeu?,"Ter que fazer, porque não vai dar suficiente, entendeu?"
+medium,7.m4a,0.905549965094206,14.429870128631592, Vou ter que fazer porque não vai dar suficiente. Entendeu?,"Ter que fazer, porque não vai dar suficiente, entendeu?"
+large,7.m4a,0.905549965094206,26.71566414833069," Vou ter que fazer, porque não vai dar suficiente. Entendeu?","Ter que fazer, porque não vai dar suficiente, entendeu?"
+tiny,6.m4a,0.4576241622696325,0.7356030941009521, aqui tem marmito sim para... dois dias só,Aqui tem marmita suficiente pra dois dias só.
+base,6.m4a,0.4576241622696325,1.4131929874420166, Aqui tem marmito sinto para dois dias só.,Aqui tem marmita suficiente pra dois dias só.
+small,6.m4a,0.5507796339456278,3.766200065612793, Aqui tem marmitos de gente pra dois dias só.,Aqui tem marmita suficiente pra dois dias só.
+medium,6.m4a,0.7799154245579976,14.768414974212646, Aqui tem marmita suficiente para dois dias só.,Aqui tem marmita suficiente pra dois dias só.
+large,6.m4a,0.6029748160380571,26.477076053619385, Aqui tem marmito ciente pra dois dias só.,Aqui tem marmita suficiente pra dois dias só.
+tiny,00000015-AUDIO-2024-06-21-00-20-43.opus,0.9626903173072822,1.0081548690795898, E lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+base,00000015-AUDIO-2024-06-21-00-20-43.opus,0.9046672927345145,1.5155768394470215, Me lembra de fazer o trabalho de aprendizade máquina até dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+small,00000015-AUDIO-2024-06-21-00-20-43.opus,1.0000000000000002,4.326173782348633, Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+medium,00000015-AUDIO-2024-06-21-00-20-43.opus,1.0000000000000002,16.332560062408447, Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+large,00000015-AUDIO-2024-06-21-00-20-43.opus,0.926772647037196,29.063570022583008, Me lembra de fazer o trabalho de aprendizagem de máquina até o dia 23 de julho.,Me lembra de fazer o trabalho de aprendizado de máquina até o dia 23 de julho.
+tiny,4.m4a,0.07244081925041987,0.8549351692199707, Ahora voy a hacer y a su presión arterial o si stock.,Agora vou aferir a sua pressão arterial sistólica.
+base,4.m4a,0.40298220897396103,1.4533429145812988, Agora eu vou aferir a sobressão arterial systolque.,Agora vou aferir a sua pressão arterial sistólica.
+small,4.m4a,0.6735205045780811,4.114583969116211, Agora eu vou aferir a sua pressão arterial-cystólica.,Agora vou aferir a sua pressão arterial sistólica.
+medium,4.m4a,0.8831282039194523,15.73517107963562, Agora eu vou aferir a sua pressão arterial sistólica.,Agora vou aferir a sua pressão arterial sistólica.
+large,4.m4a,0.8831282039194523,27.128230810165405, Agora eu vou aferir a sua pressão arterial sistólica.,Agora vou aferir a sua pressão arterial sistólica.
+tiny,00000004-AUDIO-2024-06-21-00-18-02.opus,0.8466473536503034,0.7175118923187256, E mostra a minha lista de tarefas.,Me mostra minha lista de tarefas.
+base,00000004-AUDIO-2024-06-21-00-18-02.opus,0.8466473536503034,1.343790054321289, E mostra minha lista de tarefas.,Me mostra minha lista de tarefas.
+small,00000004-AUDIO-2024-06-21-00-18-02.opus,0.8466473536503034,3.668874979019165, e mostra minha lista de tarefas.,Me mostra minha lista de tarefas.
+medium,00000004-AUDIO-2024-06-21-00-18-02.opus,0.8466473536503034,14.69871711730957, e mostra minha lista de tarefas.,Me mostra minha lista de tarefas.
+large,00000004-AUDIO-2024-06-21-00-18-02.opus,0.8466473536503034,25.80404496192932, E mostra minha lista de tarefas.,Me mostra minha lista de tarefas.
+tiny,5.m4a,0.6498878806507875,0.8106687068939209, Me lembra de fazer meu diário de campo as luz horas a manhã.,Me lembra de fazer meu diário de campo às duas horas amanhã.
+base,5.m4a,0.5922486215716684,1.4578289985656738, Me lembra de fazer meu dia de campo às 2h a manhã.,Me lembra de fazer meu diário de campo às duas horas amanhã.
+small,5.m4a,0.8680942667801238,3.9801011085510254, Me lembra de fazer meu dia de campo às duas horas amanhã.,Me lembra de fazer meu diário de campo às duas horas amanhã.
+medium,5.m4a,0.7523197619890015,15.615684747695923, Me lembre de fazer meu dia de campo às duas horas amanhã.,Me lembra de fazer meu diário de campo às duas horas amanhã.
+large,5.m4a,0.7096597996236949,28.05884075164795, Me lembra de fazer meu dia de campo às duas horas da manhã.,Me lembra de fazer meu diário de campo às duas horas amanhã.
