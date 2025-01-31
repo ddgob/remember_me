@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Python: Django",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/lembra_ai/manage.py",
+        "args": [
+          "runserver"
+        ],
+        "django": true,
+        "env": {
+          "DJANGO_SETTINGS_MODULE": "lembra_ai.settings"
+        },
+        "console": "integratedTerminal"
+      }
+    ]
+  }
+  

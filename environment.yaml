@@ -1,4 +1,4 @@
-name: remember_me_env
+name: lembra_ai_env
 channels:
   - defaults
   - conda-forge

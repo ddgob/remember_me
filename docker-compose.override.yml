@@ -1,0 +1,12 @@
+services:
+  web:
+    command: python lembra_ai/manage.py runserver 0.0.0.0:8000
+    ports:
+      - "8000:8000"
+    environment:
+      - DJANGO_DEBUG=1
+      - DJANGO_SETTINGS_MODULE=lembra_ai.settings.development
+
+  db:
+    ports:
+      - "5432:5432"

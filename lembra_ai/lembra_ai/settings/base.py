@@ -1,19 +1,14 @@
 from pathlib import Path
 import os
 
-# Build paths inside the project like this: BASE_DIR / 'subdir'.
-BASE_DIR = Path(__file__).resolve().parent.parent
+# Core Django settings
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-!+m%4=*0dtu+1u(_2fhq4_wwn32wes+$jy-e=qxdw#d6jh8yet'
-
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-
-ALLOWED_HOSTS = ['c57f-45-171-68-40.ngrok-free.app', '127.0.0.1', 'localhost']
+SECRET_KEY = os.environ['SECRET_KEY']
+DEBUG = bool(os.environ.get("DEBUG", False))
+ALLOWED_HOSTS = os.environ.get("DJANGO_ALLOWED_HOSTS", "127.0.0.1").split(",")
 
 # Application definition
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -35,7 +30,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'remember_me.urls'
+ROOT_URLCONF = 'lembra_ai.urls'
 
 TEMPLATES = [
     {
@@ -53,23 +48,32 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'remember_me.wsgi.application'
+WSGI_APPLICATION = 'lembra_ai.wsgi.application'
 
-
-# Database
-# https://docs.djangoproject.com/en/5.0/ref/settings/#databases
-
+# Database (PostgreSQL default)
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': os.environ.get('DB_NAME', 'lembra'),
+        'USER': os.environ.get('DB_USER', 'lembra'),
+        'PASSWORD': os.environ.get('DB_PASSWORD', ''),
+        'HOST': os.environ.get('DB_HOST', 'db'),
+        'PORT': os.environ.get('DB_PORT', '5432'),
     }
 }
 
+# Internationalization
+LANGUAGE_CODE = 'pt-br'
+TIME_ZONE = 'America/Sao_Paulo'
+USE_I18N = True
+USE_TZ = True
+
+# Static files
+STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Password validation
-# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
-
 AUTH_PASSWORD_VALIDATORS = [
     {
         'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
@@ -85,28 +89,10 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
-# Internationalization
-# https://docs.djangoproject.com/en/5.0/topics/i18n/
-
-LANGUAGE_CODE = 'pt-br'
-
-TIME_ZONE = 'America/Sao_Paulo'
-
-USE_I18N = True
-
-USE_TZ = True
-
-
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/5.0/howto/static-files/
-
-STATIC_URL = 'static/'
-
-# Default primary key field type
-# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
-
-DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
-WHATSAPP_URL = 'https://graph.facebook.com/v20.0/366038216587119/messages'
-WHATSAPP_TOKEN = 'Bearer EAAP6fZBD6lC4BOyDmitJqpl7DuTgJjQZAoxbqk3yr8DaXmmT1IunNEZB8kx4TdlUZAhSEMILP5oVASGAlp3cpndRV1mJCMqwDhQsmkjy6BAh7PX2PCBOR5boT0EFIRs7pBfTB3Jsce8nmbg7n15NDMsOlGcDoIyNZCyZAvE4f0WZCcZBhZBE32om3WcS4AovfWAVQdXxxaj1YJuiYqbsOw7n447fL9OAZD'
+# External services
+WHATSAPP_TOKEN = os.environ.get('WHATSAPP_TOKEN', '')
+VERIFY_TOKEN = os.environ.get('VERIFY_TOKEN', '')
+AWS_ACCESS_KEY_ID = os.environ.get('AWS_ACCESS_KEY_ID', '')
+AWS_SECRET_ACCESS_KEY = os.environ.get('AWS_SECRET_ACCESS_KEY', '')
+WHATSAPP_URL = os.environ.get('WHATSAPP_URL', '')
+WHATSAPP_WEBHOOK_PATH = os.environ.get('WHATSAPP_WEBHOOK_PATH', '')

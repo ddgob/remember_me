@@ -1,5 +1,5 @@
 """
-WSGI config for remember_me project.
+WSGI config for lembra_ai project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -8,9 +8,7 @@ https://docs.djangoproject.com/en/5.0/howto/deployment/wsgi/
 """
 
 import os
-
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'remember_me.settings')
-
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'lembra_ai.settings.production')
 application = get_wsgi_application()
